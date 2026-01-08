@@ -34,7 +34,8 @@ Nesta etapa foi realizada toda a **modelagem e estruturação do banco de dados*
 - Padronização de nomenclatura
 - Charset e collation
 
-📂 Arquivo: 01_parte1_modelagem_estrutura
+📂 Arquivo: 01_parte1_modelagem_estrutura_VsCode.sql
+📂 Arquivo: Dump_parte01.sql
 
 ---
 
